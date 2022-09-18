@@ -13,7 +13,6 @@ $(document).keypress(function() {
 
 $("h1").click(function() {
 getStarted();
-$("h1").fadeOut(100).fadeIn(100);
 });
 //
 $(".btn").click(function() {
